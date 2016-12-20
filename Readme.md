@@ -18,6 +18,11 @@ The example usage is a "find my phone" task.
 You could send a "Where are you?" message to your phone, and have Tasker respond with a repetitive "I'm here! I'm here!" 
 or play a music.
 
+## Installation
+```
+kalliope neuron-install --git-url "https://github.com/kalliope-project/kalliope_neuron_tasker.git"
+```
+
 
 ## Options
 
