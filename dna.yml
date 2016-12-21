@@ -1,5 +1,6 @@
 ---
-   neuron_name: "tasker_autoremote"
+   name: "tasker_autoremote"
+   type: "neuron"
    author: "Kalliope project team"
 
    minimum_kalliope_version: 0.4.0
