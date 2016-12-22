@@ -1,9 +1,12 @@
 ---
-   name: "tasker_autoremote"
-   type: "neuron"
-   author: "Kalliope project team"
+  name: "tasker_autoremote"
+  type: "neuron"
+  author: "Kalliope project team"
 
-   minimum_kalliope_version: 0.4.0
+  kalliope_supported_version:
+    - 0.4.0
 
-   tags:
-      - "Tasker"
+  tags:
+    - "Tasker"
+    - "smartphone"
+    - "android"
