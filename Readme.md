@@ -84,5 +84,11 @@ Finally, create a event, to stop the music when we unlock the phone
 
 Exit Tasker with the exit menu to be sure all events and task have been saved.
 
+## License
+
+Copyright (c) 2016. All rights reserved.
+
+Kalliope is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, 
+as long as you provide back attribution and ["don't hold you liable"](http://choosealicense.com/). For the full license text see the [LICENSE.md](LICENSE.md) file.
 
  
