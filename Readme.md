@@ -20,7 +20,7 @@ or play a music.
 
 ## Installation
 ```
-kalliope install --git-url "https://github.com/kalliope-project/kalliope_neuron_tasker.git"
+kalliope install --git-url https://github.com/kalliope-project/kalliope_neuron_tasker.git
 ```
 
 
