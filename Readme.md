@@ -85,6 +85,12 @@ Finally, create a event, to stop the music when we unlock the phone
 
 Exit Tasker with the exit menu to be sure all events and task have been saved.
 
+Steps to get your personal Key:
+
+Go to your personal URL
+After the page has finished loading look in your URL. It will look something like http://autoremotejoaomgcd.appspot.com/?key=MY_KEY
+Instead of MY_KEY, your key will be there. Copy your key with Control+C and paste it where needed with Control+V
+
 ## License
 
 Copyright (c) 2018. All rights reserved.
