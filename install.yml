@@ -6,5 +6,5 @@
 
   tasks:
     - name: "Install pip dependencies"
-      pip:
-        name: requests
+      debug:
+          msg: "I do nothing at all"
